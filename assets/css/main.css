@@ -2572,6 +2572,10 @@ input, select, textarea {
 			margin: 0;
 		}
 
+		.fa-github {
+			font-size: 1.5em;
+		}
+
 /* Header */
 
 	#header {
