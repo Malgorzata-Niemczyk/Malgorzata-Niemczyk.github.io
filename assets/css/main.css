@@ -2572,8 +2572,16 @@ input, select, textarea {
 			margin: 0;
 		}
  
-		article .fa-github {
-			font-size: 1.5em;
+		article p a {
+			font-size: 1.1em;
+		}
+
+		.links-wrapper {
+			display: flex;
+		}
+
+		.link-github {
+			padding-right: 25px;
 		}
 
 /* Header */
