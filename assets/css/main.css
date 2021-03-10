@@ -2652,7 +2652,13 @@ input, select, textarea {
 	}
 
 	.technologies-info {
-		margin-top: 0;
-		font-size: 15px;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	
+	.technologies-info p {
+		margin-right: 10px;
+		margin-bottom: 0;
+		font-size: 14px;
 		color: #E27689;
 	}
